@@ -1,2 +1,2 @@
-# ElBigfoo.github.io
+# ElBigfoot.github.io
 static content for blogging
